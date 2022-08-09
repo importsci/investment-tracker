@@ -1,0 +1,12 @@
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore folders
+exported_files
+
+# Ignore investment movements
+/databases/movimentacao-2019.xlsx
+/databases/movimentacao-2020.xlsx
+/databases/movimentacao-2021.xlsx
+/databases/movimentacao-2022.xlsx
